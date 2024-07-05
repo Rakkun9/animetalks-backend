@@ -1,0 +1,1 @@
+ALTER TABLE topic RENAME COLUMN tile TO title;
